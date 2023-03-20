@@ -1,7 +1,7 @@
 |[Repo को फोर्क करें।](https://github.com/0AIB/Auto-Forward-Bot/fork)
 |---
 
-# चैनल फोटो फॉरवर्ड 
+# चैनल ओटो फॉरवर्ड  
 एक सिंपल टेलीग्राम बोट जो आपके चैनल में आने वाली नई पोस्ट को दूसरे चैनल में ऑटोमेटेकली (स्वचालित) फॉरवर्ड करेगा।
 
 ## कैसे तैनात (डिप्लोय) करें?
@@ -39,7 +39,7 @@ about - मेरे बारे में।
 
 ###### [English](https://github.com/0AIB/Auto-Forward-Bot/blob/main/english.md)
 
-# श्रेय ओर इन सभी को धन्यवाद। ❤️
+## श्रेय ओर इन सभी को धन्यवाद। ❤️
 [![say](https://img.shields.io/badge/say-धन्यवाद-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 - [Dan](https://telegram.dog/haskell) for his pyrogram docs
 - [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
