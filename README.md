@@ -8,7 +8,7 @@
 आप इस कोड को कहीं भी तैनात कर सकते हो, पर नीचे Heroku को और Railway डिप्लोय के बारे में बताया गया है।
 
 - इन 2 तरीकों में से एक का चयन करें
-     - [![Heroku पर तैनात करें](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Iamproaf/Forward)
+     - [![Heroku पर तैनात करें](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Iamproaf/Forword)
 
      - [![रेलवे पर तैनात करें](https://railway.app/button.svg)](https://railway.app/new/template/P59W6v)
 
