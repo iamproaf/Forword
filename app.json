@@ -8,7 +8,7 @@
         "forward"
     ],
     "success_url": "https://telegram.dog/Lx0980AI",
-    "repository": "https://github.com/0AIB/Auto-Forward-Bot",
+    "repository": "https://github.com/iamproaf/Forward",
     "env": {        
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
